@@ -1,2 +1,3 @@
-# Mon Projet
-Ce projet est un exemple de configuration Git pour apprendre à utiliser GitHub avec Visual Studio Code.
+#LePetitMondeOublie
+Ce projet vise a automatiser le lancement de mes applications.
+
